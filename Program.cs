@@ -10,6 +10,9 @@ static void Main(string[] args)
             // and its return type is void it means it wont return anything 
         {  // it is called curely braces
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!1");
+            Console.WriteLine("Hello World!2");
+
         }
     }
 }
